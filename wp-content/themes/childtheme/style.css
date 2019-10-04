@@ -1,0 +1,19 @@
+/*
+Theme Name: Child of Twenty Sixteen
+Description: Child theme of Twenty Sixteen to display new custom post types and taxonomies
+Author: Martina Gabrielli
+Version: 0.1
+Template: twentysixteen
+*/
+
+@import url("../twentysixteen/style.css");
+
+.taxonomies {
+    font-family: 'Lato';
+    font-size: 90%;
+    margin-bottom: 2rem;
+}
+
+.taxonomies a {
+    font-weight: 600;
+}     
